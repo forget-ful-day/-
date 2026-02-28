@@ -1,0 +1,5 @@
+{
+  "name": "Robochat",
+  "description": "A futuristic Telegram-like chat application with private messages, groups, reactions, and custom themes.",
+  "requestFramePermissions": []
+}
